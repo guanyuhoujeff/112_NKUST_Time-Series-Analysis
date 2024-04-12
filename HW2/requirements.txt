@@ -16,3 +16,5 @@ binance-connector
 binance-futures-connector
 
 matplotlib
+arch
+numpy==1.23.5
