@@ -1,0 +1,18 @@
+easydict
+numpy
+streamlit
+streamlit_authenticator
+websockets
+certifi
+apscheduler
+
+# redis manager
+redis
+opencv-python>=4.1.1
+reactivex
+
+
+binance-connector
+binance-futures-connector
+
+matplotlib
